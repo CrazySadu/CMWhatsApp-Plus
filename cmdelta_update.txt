@@ -1,2 +1,2 @@
-{'ver1':'1', 'ver2':'50', 'ver3':'00'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://youtu.be/7MvIuu7_AOk?si=4lme_5gug31ZSiN0'}
+{'ver1':'1', 'ver2':'50', 'ver3':'10'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://youtu.be/0kyE4xEa9xE?si=4R9VwjfX8FDmgUb0'}
 
