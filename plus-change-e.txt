@@ -7,7 +7,7 @@ What's new in this update V1.63
 [Fixed] the crash when entering chat on some devices.
 [More] Many other fixes and improvements.
 
-ما الجديد في هذا التحديث V20.25
+ما الجديد في هذا التحديث V1.63
 
 
 [إضافة] زيادة في حجم إرسال الفيديو.
